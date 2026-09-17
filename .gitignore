@@ -1,0 +1,29 @@
+# Ambientes Virtuais
+venv/
+.venv/
+env/
+ENV/
+
+# Byte-compiled / cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Sistema Operacional (macOS e outros)
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+
+# IDEs e Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs e arquivos temporários
+*.log
+
+# Arquivos Markdown
+*.md
